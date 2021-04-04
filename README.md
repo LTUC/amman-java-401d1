@@ -9,24 +9,8 @@ Students will use IntelliJ IDEA and Android Studio to create Java applications. 
 
 The course focuses on fundamental computer science concepts like object-oriented programming, advanced data structures and algorithms, Big O asymptotic analysis, and the structure of statically typed languages.
 
-## Schedule example
-
-|Time   | Monday  | Tuesday |Wednesday|Thursday |Friday|
-|-------|---------|---------|---------|---------|--------|
-|9am-1pm| | Lab 1, journal 1| Lab 2, journal 2|Lab 3, journal 3|Lab 4, journal 4|
-|1pm-2pm|Lunch    | Lunch   | Lunch   |Lunch    |Lunch    |
-|2pm-5pm|Lecture 1|Lecture 2|Lecture 3|Lecture 4|Lecture 5|
-|5pm-6pm|DS&A 1   |DS&A 2   |DS&A 3   |DS&A 4   |DS&A 5   |
-|after 6pm|Finish DS&A, read through Lab 1, readings for Lecture 2|Finish DS&A, read through Lab 2, readings for Lecture 3|Finish DS&A, read through Lab 3, readings for Lecture 4|Finish DS&A, read through Lab 4, readings for Lecture 5|Finish DS&A over weekend, readings for lecture 6|
-
 ## Assignments, Deadlines, Late Work, and other fun things
 There are several types of assignments that are required for this course, and they have different policies on late work.
-
-#### Complete/incomplete
-* Readings: All readings are visible at the beginning of the course. Each reading is due by the start of the lecture that covers that reading, and locks (no late submissions) at midnight on that day.
-* Daily Journals: Each daily journal will become available 2 hours before lecture, is due by the start of lecture, and locks at midnight on that day.
-* Career Coaching: Career coaching assignments do not lock, but are used during career coaching workshops; ensure you have completed the assignments by the start of the workshop.
-* Prework: You should have already finished this; if not, you should reach out to your instructor, and finish any remaining items ASAP.
 
 #### Graded out of points
 * Code Challenges: Each code challenge is released at 5pm, to be worked on that night. The code challenge is due the next day by the start of lecture. You may resubmit code challenges for up to 10 days after the assignment is due; code challenges lock after 10 days.
